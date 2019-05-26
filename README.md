@@ -7,9 +7,10 @@
 # Usage 
   python3 mikrotikbeast.py
 # 
- <b>Accepted input examples<br/>
+ <b>Accepted input examples </b><br/>
 - Example 1: '192.168.5.0/24'<br/>
 - Example 2: '172.16.0.0/16'<br/>
 #
   
-This is just an addition to the orginal work @ [BigNerd95](https://github.com/BigNerd95/WinboxExploit).
+This is just an addition to the orginal work @ [BigNerd95/WinboxExploit](https://github.com/BigNerd95/WinboxExploit).
+
