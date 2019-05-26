@@ -12,5 +12,7 @@
 - Example 2: '172.16.0.0/16'<br/>
 #
   
+NOTES:  
 This is just an addition to the orginal work @ [BigNerd95/WinboxExploit](https://github.com/BigNerd95/WinboxExploit).
-
+This my first python try!
+This is created to help in pentesting in ISP enviornment.
