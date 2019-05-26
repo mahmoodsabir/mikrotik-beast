@@ -14,5 +14,5 @@
   
 NOTES:  
 This is just an addition to the orginal work @ [BigNerd95/WinboxExploit](https://github.com/BigNerd95/WinboxExploit). <br>
-This my first python try!. <br>
-This is created to help in pentesting in ISP enviornment. <br>
+This my first python attempt!. <br>
+This is created to help in pentesting in a ISP enviornment. <br>
