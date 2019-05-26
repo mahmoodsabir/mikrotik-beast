@@ -5,7 +5,7 @@
 # Usage 
   python3 mikrotikbeast.py
 # 
- accepted input examples
- Example 1: '192.168.5.0/24'
- Example 2: '172.16.0.0/16'
+ Accepted input examples<br/>
+ Example 1: '192.168.5.0/24'<br/>
+ Example 2: '172.16.0.0/16'<br/>
 
